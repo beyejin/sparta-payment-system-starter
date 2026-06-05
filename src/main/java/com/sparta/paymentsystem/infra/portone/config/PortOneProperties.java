@@ -13,4 +13,6 @@ public class PortOneProperties {
     private String apiSecret;
     private String storeId;
     private String channelKey;
+    private String webhookSecret;
+
 }
